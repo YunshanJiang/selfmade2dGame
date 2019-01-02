@@ -62,45 +62,46 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrpit\NameGuide.cs" />
+    <Compile Include="Assets\Scrpit\PlayerCamera.cs" />
     <Compile Include="Assets\Scrpit\PlayerMovement.cs" />
     <None Include="Assets\Sprites\Free Pixel Art Hill\contact.txt" />
     <None Include="Assets\Sprites\Free Pixel Art Hill\Lisense.txt" />
     <None Include="Assets\Sprites\Free Pixel Art Hill\readme.txt" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Lightweight.Runtime">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Runtime.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Lightweight.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Lightweight.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.IncludePaths">
-      <HintPath>C:/Users/57619/Desktop/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.IncludePaths.dll</HintPath>
+      <HintPath>C:/Users/57619/Desktop/sell2dgame/selfmade2dGame/2dGameProfolie/Library/ScriptAssemblies/Unity.RenderPipelines.Core.IncludePaths.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

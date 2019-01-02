@@ -5,6 +5,7 @@ using System;
 
 public class PlayerMovement : MonoBehaviour {
 
+    public PlayerCamera playerCamera;
     public AnimationCurve speedanimationcurve;
     public float speed;
     [Range(1,10)]
@@ -25,7 +26,7 @@ public class PlayerMovement : MonoBehaviour {
     void Update() {
         float botdistance = this.GetComponent<CapsuleCollider2D>().bounds.extents.y - this.GetComponent<CapsuleCollider2D>().offset.y;
        
-        Debug.DrawLine(transform.position, transform.position - new Vector3(0, botdistance,0), Color.red);
+       // Debug.DrawLine(transform.position, transform.position - new Vector3(0, botdistance,0), Color.red);
         if (Input.GetKey(KeyCode.D))
             { transform.GetComponent<SpriteRenderer>().flipX = false;
             localspeed = speed;
@@ -94,7 +95,7 @@ public class PlayerMovement : MonoBehaviour {
       
         if (Physics2D.Raycast(transform.position, -Vector2.up, botdistance, 1 << 9))
         {
-            Debug.Log(true);
+           // Debug.Log(true);
             GetComponent<Animator>().SetBool("isjumped", false);
         }
 
