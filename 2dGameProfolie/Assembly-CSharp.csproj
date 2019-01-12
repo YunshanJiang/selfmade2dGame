@@ -61,7 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scrpit\background.cs" />
+    <Compile Include="Assets\Scrpit\Enemy.cs" />
     <Compile Include="Assets\Scrpit\NameGuide.cs" />
+    <Compile Include="Assets\Scrpit\PlayerAttack.cs" />
     <Compile Include="Assets\Scrpit\PlayerCamera.cs" />
     <Compile Include="Assets\Scrpit\PlayerMovement.cs" />
     <None Include="Assets\Sprites\Free Pixel Art Hill\contact.txt" />
